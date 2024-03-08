@@ -9,16 +9,16 @@ Convert an HTML file to plain text.
 # Dependencies
 The application uses the following Python libraries:
 
-os
-subprocess
-fitz (PyMuPDF)
-BeautifulSoup
-asyncio
-pyppeteer
-html2text
-tkinter
-PySimpleGUI
-gradio
+- os
+- subprocess
+- fitz (PyMuPDF)
+- BeautifulSoup
+- asyncio
+- pyppeteer
+- html2text
+- tkinter
+- PySimpleGUI
+- gradio
 # How to Use
 The application provides a simple graphical user interface (GUI) for selecting a PDF file and choosing the desired processing option. The options are:
 
